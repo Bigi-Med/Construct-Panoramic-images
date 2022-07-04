@@ -1,2 +1,1 @@
-# Construct-Panoramic-images
-Create a mosaique of images with image processing techniques (homography)
+# Panoramic_Image_Constructor_TS225
